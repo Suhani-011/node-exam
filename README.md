@@ -1,5 +1,3 @@
-# Book API
-
 A RESTful Book Management API built using **Node.js, Express.js, and MongoDB**. This project provides CRUD operations to manage book records.
 
 ## Project Resources
